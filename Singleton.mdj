@@ -668,7 +668,8 @@
 								"$ref": "AAAAAAGOL7mBcO0EDEo="
 							},
 							"name": "valorPassagem",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
